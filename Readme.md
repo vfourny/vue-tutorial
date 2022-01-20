@@ -1,4 +1,4 @@
-# Tutoriel à Vue JS
+# Tutoriel Vue JS
 
 Durant ce tutoriel nous allons mettre en pratique plusieurs notions fondamentales de Vue JS afin de pouvoir aborder au mieux le projet qui suivra.
 
